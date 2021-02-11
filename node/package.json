@@ -1,0 +1,22 @@
+{
+  "name": "redux-tutorial",
+  "version": "1.0.0",
+  "description": "redux-tutorial on nodejs and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "start"
+  },
+  "keywords": [
+    "react-redux",
+    "redux"
+  ],
+  "author": "bek",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  }
+}
